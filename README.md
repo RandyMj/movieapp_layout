@@ -1,3 +1,3 @@
 This is just a test layout.
 
-Still working on the responsive.
+Layout desktop first but still working on the responsive.
