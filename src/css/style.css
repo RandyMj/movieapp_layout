@@ -154,7 +154,7 @@ main {
 
 
 /* media queries */
-@media screen and (max-width: 2590px) {
+/* @media screen and (max-width: 2590px) {
   .movies {
     grid-template: repeat(2, 375px) / repeat(6, 1fr);
   }
@@ -165,7 +165,7 @@ main {
   .movies {
     grid-template: repeat(4, 375px) / repeat(3, 1fr);
   }
-}
+} */
 
 
 @media screen and (max-width: 1070px) {
